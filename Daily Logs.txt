@@ -1,0 +1,13 @@
+Daily Logs
+
+Day 1
+We began by talking about different ideas for our game. After thinking of many concepts, we chose one: a puzzle game set in a post-apocalyptic, steampunk world. The main character is the only living being left, surrounded by broken machines and ruins. The player wakes up with no memories, in a future where humans no longer exist. To move forward, they explore what’s left of the world and solve puzzles to bring small oases back to life and slowly recover their memories. After choosing this idea, we split the work between us, each with a clear role.
+
+Day 2
+We started making sprites for the game. We created the main character, some furniture, and other objects that fit the ruined, steampunk world. We followed a texture style between 16x16px and 64x64px. The look of the game began to take shape, matching the sad but mysterious mood of the story.
+
+Day 3
+Once the sprites were ready, we moved on to working on the game trailer. We wrote a short script to explain the story and planned a scene that shows the empty world, the machines, and the lonely main character. 
+
+Day 4
+After recording everything we needed for the trailer, we started editing it. We added fitting music, cleaned the footage, and made sure the scenes matched the emotional tone of the game.
